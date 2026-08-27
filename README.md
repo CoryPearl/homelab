@@ -4,8 +4,8 @@ A self-hosted homelab built for learning, experimentation, media, game servers, 
 
 <p align="center">
   <!-- Replace with homelab/dashboard photo -->
-  <img src="imgs/homelab.png" width="48%" alt="Homelab">
-  <img src="imgs/dashboard.png" width="48%" alt="Homelab Dashboard">
+  <img src="homelab.png" width="48%" alt="Homelab">
+  <img src="dashboard.png" width="48%" alt="Homelab Dashboard">
 </p>
 
 ## Hardware
