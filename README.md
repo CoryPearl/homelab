@@ -8,7 +8,7 @@ A self-hosted homelab built for learning, experimentation, media, game servers, 
   <img src="imgs/dashboard.png" width="48%" alt="Homelab Dashboard">
 </p>
 
-## 🖥️ Hardware
+## Hardware
 
 | Machine | Hardware | Role |
 |---|---|---|
@@ -18,7 +18,7 @@ A self-hosted homelab built for learning, experimentation, media, game servers, 
 
 All systems run **Ubuntu Server** and are connected over Gigabit Ethernet.
 
-## ⚙️ Services
+## Services
 
 ### Pi
 - Pi-hole
@@ -47,7 +47,7 @@ All systems run **Ubuntu Server** and are connected over Gigabit Ethernet.
 - Node Exporter
 - Tailscale
 
-## 🎮 Minecraft
+## Minecraft
 
 The custom Minecraft manager provides:
 
@@ -63,7 +63,7 @@ The custom Minecraft manager provides:
 
 Live server data is stored on NVMe, while backups are stored separately on HDD.
 
-## 🌐 Networking
+## Networking
 
 ```text
 Internet
@@ -84,7 +84,7 @@ Tailscale
 
 Administrative services remain private through **Tailscale**, while selected game servers and web services can be exposed publicly.
 
-## 💾 Storage
+## Storage
 
 ```text
 cp1
@@ -96,7 +96,7 @@ cp2
 └── HDD  ── Movies / TV / Music
 ```
 
-## 📊 Monitoring
+## Monitoring
 
 Prometheus + Node Exporter collect metrics from every machine.
 
